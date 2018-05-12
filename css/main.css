@@ -29,6 +29,11 @@
 /*	1.	Browser Reset + Font Face
 /*-------------------------------------------------------------------------*/
 
+@font-face {
+    font-family: OpenSans-Regular-webfont;
+    src: url(.woff);
+}
+
 html,
 body,
 div,
